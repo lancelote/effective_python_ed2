@@ -4,8 +4,9 @@ Code experiments based on "Effective Python" second edition book by Brett Slatki
 
 ## TOC
 
-- [ ] Chapter 1: Python Thinking
+- [x] Chapter 1: Python Thinking
     - [Item 3](src/chapter01/item_3.py) - Know the Difference Between `bytes` And `str`
+    - [Item 10](src/chapter01/item_10.py) - Prevent Repetition with Assignment Expressions
 - [ ] Chapter 2: Lists and Dictionaries
 - [ ] Chapter 3: Functions
 - [ ] Chapter 4: Comprehensions and Generators

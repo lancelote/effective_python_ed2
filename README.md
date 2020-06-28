@@ -12,6 +12,7 @@ Code experiments based on "Effective Python" second edition book by Brett Slatki
 - [ ] Chapter 4: Comprehensions and Generators
     - [Item 29](src/chapter04/item_29.py) - Walrus Operator in Comprehensions
     - [Item 31](src/chapter04/item_31.py) - Defensive Iteration over Arguments
+    - [Item 33](src/chapter04/item_33.py) - Compose Multiple Generators with `yield from`
 - [ ] Chapter 5: Classes and Interfaces
 - [ ] Chapter 6: Metaclasses and Attributes
 - [ ] Chapter 7: Concurrency and Parallelism
